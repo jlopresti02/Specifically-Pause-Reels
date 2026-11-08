@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+# scratch renders; copy keepers into output/ or trial-test/
+reels/*/renders/
